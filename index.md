@@ -1,5 +1,4 @@
-## SR Spring Seminar 2018
-### 11th April
+## SR Spring Seminar 2018 - 11th April
 
 ## Agenda
 
