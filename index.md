@@ -59,4 +59,22 @@ Organizers of the BoF/Hackathon/Hands-on Sessions would provide a short overview
 - Erik Edelmann: **Accounting reports about customer projects and their usage (Titania - 6th floor)** : An overview of REPPU today. Future of REPPU. Discussion: What other usage should we be tracking? How should the data be available? 
 - Jessica Parland-von Essen: **Digital Humanities Services and Infrastructures (Diskurssi - 1st floor)**: Services for the expanding digital humanities - The session will have short presentations on API for large datasets, pictures, audio, video (IIIF technology), DA services for HSS, the infra landscape and data flows. Followed by discussions. 
 - Maria Lehtivaara: **Tell it with tutorial – workshop on how to make simple CSC tutorials and webinars Part 2 (Umbriel + small rooms at 6th floor)** : How to use the softwares, how to write good titles & descriptions + try it on your own! 
- 
+
+### Evening Program (For those registered)
+17:00 - Escape Room Game - Fabianinkatu 23, Helsinki
+
+18:30 - Dinner - The Cock, Fabianinkatu 17, Helsinki
+
+Menu:
+ - CLASSIC MENU
+   Salmon carpaccio – Watermelon radish, greens, shiso yoghurt and bread
+   - - -
+   Steak frites – Butcher’s cut, béarnaise and baby gem salad
+   - - -
+   Crème brûlée
+ - CLASSIC MENU VEGETARIAN/VEGAN 40 €
+   Heart of palm – Avocado, spring onion, sea asparagus and beetroot aioli
+   - - -
+   Cauliflower steak –  Peanut butter, eggplant, grilled broccolini and spinach salad
+   - - -
+   Tahini raw brownie
