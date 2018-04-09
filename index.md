@@ -67,12 +67,14 @@ Organizers of the BoF/Hackathon/Hands-on Sessions would provide a short overview
 
 Menu:
  - CLASSIC MENU
+   - - -
    Salmon carpaccio – Watermelon radish, greens, shiso yoghurt and bread
    - - -
    Steak frites – Butcher’s cut, béarnaise and baby gem salad
    - - -
    Crème brûlée
- - CLASSIC MENU VEGETARIAN/VEGAN 40 €
+ - CLASSIC MENU VEGETARIAN/VEGAN
+   - - -
    Heart of palm – Avocado, spring onion, sea asparagus and beetroot aioli
    - - -
    Cauliflower steak –  Peanut butter, eggplant, grilled broccolini and spinach salad
