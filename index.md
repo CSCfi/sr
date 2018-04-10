@@ -49,7 +49,7 @@ Organizers of the BoF/Hackathon/Hands-on Sessions would provide a short overview
 - Markus Koskela: **Neural NLP (Sessio - 7th floor)**: Neural approaches, such as word embeddings, recurrent neural networks, and sequence-to-sequence models have recently attracted great interest in natural language processing. In this session, there will be a short introduction to the topic and then you'll get to try out neural networks for text sentiment analysis and for text categorization. **Remember to bring your laptops**.
 
 ### Coffee break
-13:45 - 14:15 in Kohtaamo
+13:45 - 14:15 in Kohtaamo : SR Interaction - Get to know some of the services of the different SR groups - Representatives from each SR group will interact with everyone, *over a cup of coffee and some candies.*
 
 
 # BoFs / Hackathons / Hands-on Sessions -> 14:15 - 15:30
