@@ -25,11 +25,11 @@ Break 10:15-10:25
 ### Flash Talks
 10:25-11:25 in Auditorium (10 min each)
 
-    Mateusz Kruszyk: New customer portal (to replace Sui)
-    Juho Lehtonen: SODA
     Sebastian von Alfthan: New super-computing purchase
+    Anssi Kainulainen: Fairdata
+    Mateusz Kruszyk: New customer portal (to replace Sui)
     Kimmo Mattila, Apurva Nandan: cPouta object storage
-    Anssi Kainulainen: Fairdata 
+    Juho Lehtonen: SODA
 
 ### BoF pitching
 
